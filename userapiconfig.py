@@ -1,6 +1,6 @@
 
 # Config
-NODE_ID = 1
+NODE_ID = 30
 
 
 # hour,set 0 to disable
